@@ -5,7 +5,7 @@ export default function Maintenance() {
   return (
     <section className="py-16 bg-gray-50" aria-label="Maintenance & Care Plans">
       <div className="max-w-3xl mx-auto px-4">
-        <h2 className="text-2xl md:text-3xl font-bold text-center mb-8 text-[color:var(--color-electric-blue)]">
+        <h2 className="font-calsans text-2xl md:text-3xl font-bold text-center mb-8 text-[color:var(--color-electric-blue)]">
           Maintenance & Care Plans
         </h2>
         <ul className="list-disc list-inside text-gray-700 space-y-2 mb-6">

@@ -25,7 +25,7 @@ export default function Pricing() {
   return (
     <section className="py-16 bg-white" aria-label="Pricing & Packages">
       <div className="max-w-5xl mx-auto px-4">
-        <h2 className="text-2xl md:text-3xl font-bold text-center mb-10 text-[color:var(--color-electric-blue)]">
+        <h2 className="font-calsans text-2xl md:text-3xl font-bold text-center mb-10 text-[color:var(--color-electric-blue)]">
           Pricing & Revenue-Boosting Packages
         </h2>
         <div className="flex flex-col md:flex-row gap-8 justify-center">
@@ -38,10 +38,12 @@ export default function Pricing() {
                   : "border-transparent"
               }`}
             >
-              <h3 className="font-semibold text-xl mb-2 text-[color:var(--color-electric-blue)]">
+              <h3 className="font-calsans font-semibold text-xl mb-2 text-[color:var(--color-electric-blue)]">
                 {tier.name}
               </h3>
-              <div className="text-lg font-bold mb-2">{tier.price}</div>
+              <div className="font-calsans text-lg font-bold mb-2">
+                {tier.price}
+              </div>
               <p className="text-sm text-gray-700 mb-4">{tier.desc}</p>
               {tier.highlight && (
                 <span className="inline-block bg-[color:var(--color-neon-green)] text-[color:var(--color-charcoal)] px-3 py-1 rounded-full text-xs font-semibold mb-2">

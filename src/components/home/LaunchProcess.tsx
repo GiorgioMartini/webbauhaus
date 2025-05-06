@@ -14,7 +14,7 @@ export default function LaunchProcess() {
   return (
     <section className="py-16 bg-white" aria-label="1-Week Launch Process">
       <div className="max-w-5xl mx-auto px-4">
-        <h2 className="text-2xl md:text-3xl font-bold text-center mb-10 text-[color:var(--color-electric-blue)]">
+        <h2 className="font-calsans text-2xl md:text-3xl font-bold text-center mb-10 text-[color:var(--color-electric-blue)]">
           Our 1-Week Launch Process
         </h2>
         <div className="flex flex-col items-center">

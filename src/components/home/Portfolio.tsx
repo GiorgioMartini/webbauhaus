@@ -32,7 +32,7 @@ export default function Portfolio() {
       id="portfolio"
     >
       <div className="max-w-5xl mx-auto px-4">
-        <h2 className="text-2xl md:text-3xl font-bold text-center mb-10 text-[color:var(--color-electric-blue)]">
+        <h2 className="font-calsans text-2xl md:text-3xl font-bold text-center mb-10 text-[color:var(--color-electric-blue)]">
           Featured Portfolio
         </h2>
         <div className="flex overflow-x-auto gap-6 pb-4 snap-x">
@@ -47,7 +47,7 @@ export default function Portfolio() {
                 className="rounded mb-3 w-full h-40 object-cover"
                 loading="lazy"
               />
-              <h3 className="font-semibold text-lg mb-1 text-[color:var(--color-electric-blue)]">
+              <h3 className="font-calsans font-semibold text-lg mb-1 text-[color:var(--color-electric-blue)]">
                 {project.title}
               </h3>
               <p className="text-sm text-gray-700 mb-2">{project.desc}</p>

@@ -1,19 +1,17 @@
-import React from "react";
-
 // Example testimonials (replace with CMS integration later)
 const testimonials = [
   {
-    name: "Maria Rossi",
-    text: "WebBauHaus delivered our new site in just 6 days. We saw more bookings instantly! Giorgio made everything easy.",
+    name: "Simon Payr",
+    text: "Giorgio delivered our new site in just 6 days. We saw more bookings instantly! Giorgio made everything easy.",
     video: null,
   },
   {
-    name: "Luca Bianchi",
-    text: null,
-    video: "https://www.w3schools.com/html/mov_bbb.mp4", // Placeholder video
+    name: "Silvester Zagato",
+    text: "Giorgio was able to create a professional online presence for me and my artwork. I am very happy with the result and the process was smooth and easy.",
+    video: null,
   },
   {
-    name: "Elena Verdi",
+    name: "Antoine Iturbe",
     text: "The process was smooth and the results exceeded our expectations. Highly recommended!",
     video: null,
   },
@@ -27,8 +25,8 @@ export default function Testimonials() {
       aria-label="Testimonials & Social Proof"
     >
       <div className="max-w-4xl mx-auto px-4">
-        <h2 className="text-2xl md:text-3xl font-bold text-center mb-10 text-[color:var(--color-electric-blue)]">
-          Testimonials & Social Proof
+        <h2 className="font-calsans text-2xl md:text-3xl font-bold text-center mb-10 text-[color:var(--color-electric-blue)]">
+          Testimonials
         </h2>
         <div className="flex flex-col md:flex-row gap-8 justify-center items-stretch">
           {testimonials.map((t, i) => (
@@ -56,7 +54,7 @@ export default function Testimonials() {
         </div>
         {/* Aggregate Google rating badge */}
         <div className="flex justify-center mt-8">
-          <span className="inline-flex items-center px-4 py-2 rounded-full bg-yellow-400 text-[color:var(--color-charcoal)] font-semibold shadow">
+          <span className="font-calsans inline-flex items-center px-4 py-2 rounded-full bg-yellow-400 text-[color:var(--color-charcoal)] font-semibold shadow">
             <span className="mr-2">★ 5.0</span> Google Reviews
           </span>
         </div>

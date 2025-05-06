@@ -1,16 +1,17 @@
-import { Outlet, Link } from "@tanstack/react-router";
+import { Outlet } from "@tanstack/react-router";
+import Navigation from "./components/Navigation";
+import OfferBanner from "./components/home/OfferBanner";
 
 function App() {
   return (
-    <div>
-      <nav className="p-4">
-        <Link to="/" className="mr-4">
-          Home
-        </Link>
-        <Link to="/contact">Contact</Link>
-      </nav>
-      <Outlet />
+    <div className="min-h-screen bg-gray-50">
+      <OfferBanner />
+      <Navigation />
+      <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        <Outlet />
+      </main>
     </div>
   );
 }
+
 export default App;

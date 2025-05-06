@@ -8,7 +8,7 @@ export default function AnalyticsAddOn() {
       aria-label="Analytics Dashboard Add-On"
     >
       <div className="max-w-3xl mx-auto px-4 text-center">
-        <h2 className="text-xl md:text-2xl font-bold text-[color:var(--color-electric-blue)] mb-2">
+        <h2 className="font-calsans text-xl md:text-2xl font-bold text-[color:var(--color-electric-blue)] mb-2">
           Analytics Dashboard Add-On
         </h2>
         <p className="text-gray-700 text-base mb-2">

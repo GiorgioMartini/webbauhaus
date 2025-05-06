@@ -38,7 +38,7 @@ export default function Faq() {
   return (
     <section className="py-16 bg-white" aria-label="FAQ">
       <div className="max-w-3xl mx-auto px-4">
-        <h2 className="text-2xl md:text-3xl font-bold text-center mb-10 text-[color:var(--color-electric-blue)]">
+        <h2 className="font-calsans text-2xl md:text-3xl font-bold text-center mb-10 text-[color:var(--color-electric-blue)]">
           Frequently Asked Questions
         </h2>
         <div className="space-y-4">

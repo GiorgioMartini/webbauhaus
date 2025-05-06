@@ -11,7 +11,7 @@ function getOfferEndDate() {
 
 export default function OfferBanner() {
   return (
-    <div className="w-full bg-[color:var(--color-electric-blue)] text-white text-center py-2 px-4 font-semibold">
+    <div className="w-full bg-[color:var(--color-charcoal)] text-white text-center py-2 px-4 font-semibold">
       <span role="img" aria-label="Lightning">
         ⚡
       </span>{" "}

@@ -8,7 +8,7 @@ import Pricing from "./home/Pricing";
 import Maintenance from "./home/Maintenance";
 import Testimonials from "./home/Testimonials";
 import Faq from "./home/Faq";
-import OfferBanner from "./home/OfferBanner";
+// import OfferBanner from "./home/OfferBanner";
 import ReferralRewards from "./home/ReferralRewards";
 import ExitIntentPopup from "./home/ExitIntentPopup";
 import AnalyticsAddOn from "./home/AnalyticsAddOn";
@@ -16,7 +16,7 @@ import AnalyticsAddOn from "./home/AnalyticsAddOn";
 export default function Home() {
   return (
     <main className="bg-white text-[color:var(--color-charcoal)]">
-      <OfferBanner />
+      {/* <OfferBanner /> */}
       <HeroSection />
       <WhyWebBauHaus />
       <Services />
