@@ -7,7 +7,7 @@ export default function HeroSection() {
 
   return (
     <section
-      className="relative flex flex-col items-center justify-center min-h-[60vh] w-full overflow-hidden bg-gradient-to-br from-[color:var(--color-neon-green)]/10 to-[color:var(--color-neon-green)]/10 py-16"
+      className="relative flex flex-col items-center justify-center min-h-[60vh] w-full overflow-hidden bg-gradient-to-br from-[color:var(--color-neon-green)]/10 to-[color:var(--color-neon-green)]/10 px-16"
       aria-label="Hero section"
     >
       {/* Background image with overlay */}

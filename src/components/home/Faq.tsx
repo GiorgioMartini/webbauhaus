@@ -11,8 +11,8 @@ const faqs = [
     a: "You own 100% of your website and code. No lock-in, ever.",
   },
   {
-    q: "Can I use WordPress or another CMS?",
-    a: "Yes! We can build with your preferred CMS or recommend the best fit for your business.",
+    q: "Can you help me build my shopify shop?",
+    a: "Yes! We can build with your shop with shopify and help you get just the right look and features you need.",
   },
   {
     q: "Where is my site hosted?",
