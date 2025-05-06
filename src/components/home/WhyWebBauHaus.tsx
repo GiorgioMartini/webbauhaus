@@ -1,12 +1,15 @@
 import Heading from "../ui/Heading";
+import { useTranslation } from "react-i18next";
 
 // Value proposition section: Why WebBauHaus?
 export default function WhyWebBauHaus() {
+  const { t } = useTranslation();
+
   return (
     <section className="py-16 bg-white" aria-label="Why WebBauHaus value props">
       <div className="max-w-5xl mx-auto px-4">
         <Heading level={2} className="text-center mb-10">
-          Why Web BauHaus?
+          {t("whyWebBauHaus.title")}
         </Heading>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
           {/* Speed */}
@@ -15,11 +18,10 @@ export default function WhyWebBauHaus() {
               🚀
             </span>
             <Heading level={3} className="mb-2">
-              Launch in 7 Days
+              {t("whyWebBauHaus.features.speed.title")}
             </Heading>
             <p className="text-sm text-gray-700">
-              From kickoff to launch in just one week. No delays, no drama —
-              just results, fast.
+              {t("whyWebBauHaus.features.speed.description")}
             </p>
           </div>
           {/* End-to-End */}
@@ -28,11 +30,10 @@ export default function WhyWebBauHaus() {
               🔄
             </span>
             <Heading level={3} className="mb-2">
-              Design → Code → Deploy → Maintain
+              {t("whyWebBauHaus.features.endToEnd.title")}
             </Heading>
             <p className="text-sm text-gray-700">
-              We handle every step, so you can focus on your business. One
-              partner, total peace of mind.
+              {t("whyWebBauHaus.features.endToEnd.description")}
             </p>
           </div>
           {/* ROI Focus */}
@@ -41,11 +42,10 @@ export default function WhyWebBauHaus() {
               📈
             </span>
             <Heading level={3} className="mb-2">
-              Sites Engineered to Convert & Rank
+              {t("whyWebBauHaus.features.roi.title")}
             </Heading>
             <p className="text-sm text-gray-700">
-              Every site is built for speed, SEO, and sales — so you get more
-              leads and more clients.
+              {t("whyWebBauHaus.features.roi.description")}
             </p>
           </div>
         </div>
@@ -55,7 +55,7 @@ export default function WhyWebBauHaus() {
             <span className="mr-2" role="img" aria-label="Shield">
               🛡️
             </span>
-            Satisfaction or Money Back
+            {t("whyWebBauHaus.guarantee")}
           </span>
         </div>
       </div>

@@ -4,7 +4,7 @@ import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 import { RouterProvider } from "@tanstack/react-router";
 import router from "./router";
-import "./index.css";
+import "./i18n/config"; // Import i18n configuration
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>

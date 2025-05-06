@@ -21,6 +21,8 @@
   --color-electric-blue: #11ba99;
   --color-charcoal: #222;
   --color-neon-green: #7cffb2;
+  color: var(--color-charcoal);
+  font-size: 20px;
 }
 
 a {

@@ -12,7 +12,7 @@ export default function Heading({
   ...props
 }: HeadingProps) {
   const baseClasses =
-    "font-calsans font-bold text-[color:var(--color-electric-blue)]";
+    "font-calsans font-bold text-[color:var(--color-charcoal)]";
   const sizeClasses = {
     1: "text-4xl md:text-5xl",
     2: "text-2xl md:text-3xl",

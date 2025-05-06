@@ -38,14 +38,14 @@ export default function Faq() {
   return (
     <section className="py-16 bg-white" aria-label="FAQ">
       <div className="max-w-3xl mx-auto px-4">
-        <h2 className="font-calsans text-2xl md:text-3xl font-bold text-center mb-10 text-[color:var(--color-electric-blue)]">
+        <h2 className="font-calsans text-2xl md:text-3xl font-bold text-center mb-10 text-[color:var(--color-charcoal)]">
           Frequently Asked Questions
         </h2>
         <div className="space-y-4">
           {faqs.map((faq, i) => (
             <div key={i} className="border rounded-lg overflow-hidden">
               <button
-                className="w-full text-left px-4 py-3 font-semibold text-[color:var(--color-electric-blue)] bg-gray-50 hover:bg-gray-100 focus:outline-none"
+                className="w-full text-left px-4 py-3 font-semibold text-[color:var(--color-charcoal)] bg-gray-50 hover:bg-gray-100 focus:outline-none"
                 onClick={() => setOpen(open === i ? null : i)}
                 aria-expanded={open === i}
                 aria-controls={`faq-panel-${i}`}

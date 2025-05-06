@@ -1,0 +1,116 @@
+{
+  "hero": {
+    "title": "Lightning-Fast Websites That Turn Clicks into Clients.",
+    "subtitle": "Launch in 7 days. One studio, one expert, every step: design, code, deploy, and maintain — all done for you.",
+    "cta": {
+      "quote": "Get a Free 5-Minute Quote",
+      "portfolio": "View Portfolio"
+    }
+  },
+  "whyWebBauHaus": {
+    "title": "Why Web BauHaus?",
+    "features": {
+      "speed": {
+        "title": "Launch in 7 Days",
+        "description": "From kickoff to launch in just one week. No delays, no drama — just results, fast."
+      },
+      "endToEnd": {
+        "title": "Design → Code → Deploy → Maintain",
+        "description": "We handle every step, so you can focus on your business. One partner, total peace of mind."
+      },
+      "roi": {
+        "title": "Sites Engineered to Convert & Rank",
+        "description": "Every site is built for speed, SEO, and sales — so you get more leads and more clients."
+      }
+    },
+    "guarantee": "Satisfaction or Money Back"
+  },
+  "services": {
+    "title": "Services",
+    "items": {
+      "customWebsites": {
+        "title": "Custom Websites",
+        "description": "Marketing sites, landing pages, and corporate portals — all tailored to your brand and goals. We build fast, beautiful, and mobile-friendly sites that make your business stand out and convert visitors into clients.",
+        "learnMore": "Learn More"
+      },
+      "webApplications": {
+        "title": "Web Applications",
+        "description": "Dashboards, booking engines, and client portals — we create custom web apps that automate, engage, and scale with your business. Secure, robust, and easy to use for you and your clients.",
+        "learnMore": "Learn More"
+      },
+      "ecommerce": {
+        "title": "e-Commerce",
+        "description": "Storefront setup, payments, and inventory links — we make selling online simple and seamless. Get a conversion-optimized shop that's easy to manage and ready to grow your revenue.",
+        "learnMore": "Learn More"
+      },
+      "addOnGrowth": {
+        "title": "Add-On Growth Packs",
+        "description": "SEO, copywriting, PPC-ready landing pages, analytics, and A/B testing — boost your site's traffic and conversions with our expert add-ons. Pick what you need, when you need it.",
+        "learnMore": "Learn More"
+      }
+    }
+  },
+  "launchProcess": {
+    "title": "Our 1-Week Launch Process",
+    "steps": {
+      "day1": "Day 1",
+      "day2": "Day 2",
+      "day3": "Day 3",
+      "day4": "Day 4",
+      "day5": "Day 5",
+      "day6": "Day 6",
+      "day7": "Day 7",
+      "kickoff": "Kickoff Call",
+      "wireframe": "Wireframe",
+      "design": "Design",
+      "build": "Build",
+      "test": "Test",
+      "launch": "Launch",
+      "optimize": "Optimize"
+    },
+    "contact": "Single point of contact — Giorgio — for total peace of mind."
+  },
+  "portfolio": {
+    "title": "Featured Portfolio",
+    "viewLive": "View Live",
+    "projects": {
+      "alpenTruck": {
+        "title": "Alpen Truck",
+        "description": "The Alpen Truck needed a modern site to boost local orders. We delivered a mobile-first redesign, integrated online catering inquiry form, and improved SEO. Result: 2x online sales in 3 months."
+      },
+      "silvesterZagato": {
+        "title": "Silvester Zagato",
+        "description": "Helped artist Silvestre Sagato establish a professional online presence by building a custom Shopify store where he can easily showcase and sell his artwork, giving him full control over his portfolio and reaching a wider audience."
+      },
+      "doneJuan": {
+        "title": "Done Juan",
+        "description": "Built a custom webapp for the Done Juan Team who wanted to build an MVP for their productivity app which validated their idea and is now being used by the team."
+      }
+    }
+  },
+  "pricing": {
+    "title": "Pricing & Revenue-Boosting Packages",
+    "tiers": {
+      "starter": {
+        "name": "Starter",
+        "price": "One-off fee",
+        "description": "Perfect for small businesses needing a beautiful, fast brochure site. Includes design, build, and launch."
+      },
+      "growth": {
+        "name": "Growth",
+        "price": "Monthly retainer",
+        "description": "Site plus basic SEO and quarterly updates. Ideal for growing businesses who want ongoing support and visibility."
+      },
+      "dominance": {
+        "name": "Dominance",
+        "price": "Higher retainer",
+        "description": "Site plus SEO, ad-funnel landing pages, monthly CRO & maintenance. For those who want to dominate their market."
+      }
+    },
+    "highlight": "Free first month of maintenance",
+    "referral": {
+      "title": "Referral Rewards:",
+      "description": "€200 credit for every new client you introduce."
+    }
+  }
+}

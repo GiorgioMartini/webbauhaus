@@ -1,73 +1,75 @@
 import React from "react";
+import { useTranslation } from "react-i18next";
 
 // Services section: lists main offerings with blurbs and links
 export default function Services() {
+  const { t } = useTranslation();
+
   return (
     <section className="py-16 bg-gray-50" aria-label="Services">
       <div className="max-w-5xl mx-auto px-4">
-        <h2 className="text-2xl md:text-3xl font-bold text-center mb-10 text-[color:var(--color-electric-blue)]">
-          Services
+        <h2 className="text-2xl md:text-3xl font-bold text-center mb-10 text-[color:var(--color-charcoal)]">
+          {t("services.title")}
         </h2>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           {/* Custom Websites */}
           <div className="bg-white rounded-lg shadow p-6 flex flex-col">
-            <h3 className="font-semibold text-lg mb-2">Custom Websites</h3>
+            <h3 className="font-semibold text-lg mb-2">
+              {t("services.items.customWebsites.title")}
+            </h3>
             <p className="text-sm text-gray-700 mb-2">
-              Marketing sites, landing pages, and corporate portals — all
-              tailored to your brand and goals. We build fast, beautiful, and
-              mobile-friendly sites that make your business stand out and
-              convert visitors into clients.
+              {t("services.items.customWebsites.description")}
             </p>
             <a
               href="#"
-              className="text-[color:var(--color-electric-blue)] hover:underline text-sm font-medium mt-auto"
+              className="text-[color:var(--color-charcoal)] hover:underline text-sm font-medium mt-auto"
             >
-              Learn More
+              {t("services.items.customWebsites.learnMore")}
             </a>
           </div>
           {/* Web Applications */}
           <div className="bg-white rounded-lg shadow p-6 flex flex-col">
-            <h3 className="font-semibold text-lg mb-2">Web Applications</h3>
+            <h3 className="font-semibold text-lg mb-2">
+              {t("services.items.webApplications.title")}
+            </h3>
             <p className="text-sm text-gray-700 mb-2">
-              Dashboards, booking engines, and client portals — we create custom
-              web apps that automate, engage, and scale with your business.
-              Secure, robust, and easy to use for you and your clients.
+              {t("services.items.webApplications.description")}
             </p>
             <a
               href="#"
-              className="text-[color:var(--color-electric-blue)] hover:underline text-sm font-medium mt-auto"
+              className="text-[color:var(--color-charcoal)] hover:underline text-sm font-medium mt-auto"
             >
-              Learn More
+              {t("services.items.webApplications.learnMore")}
             </a>
           </div>
           {/* e-Commerce */}
           <div className="bg-white rounded-lg shadow p-6 flex flex-col">
-            <h3 className="font-semibold text-lg mb-2">e-Commerce</h3>
+            <h3 className="font-semibold text-lg mb-2">
+              {t("services.items.ecommerce.title")}
+            </h3>
             <p className="text-sm text-gray-700 mb-2">
-              Storefront setup, payments, and inventory links — we make selling
-              online simple and seamless. Get a conversion-optimized shop that's
-              easy to manage and ready to grow your revenue.
+              {t("services.items.ecommerce.description")}
             </p>
             <a
               href="#"
-              className="text-[color:var(--color-electric-blue)] hover:underline text-sm font-medium mt-auto"
+              className="text-[color:var(--color-charcoal)] hover:underline text-sm font-medium mt-auto"
             >
-              Learn More
+              {t("services.items.ecommerce.learnMore")}
             </a>
           </div>
           {/* Add-On Growth Packs */}
           <div className="bg-white rounded-lg shadow p-6 flex flex-col">
-            <h3 className="font-semibold text-lg mb-2">Add-On Growth Packs</h3>
+            <h3 className="font-semibold text-lg mb-2">
+              {t("services.items.addOnGrowth.title")}
+            </h3>
             <p className="text-sm text-gray-700 mb-2">
-              SEO, copywriting, PPC-ready landing pages, analytics, and A/B
-              testing — boost your site's traffic and conversions with our
-              expert add-ons. Pick what you need, when you need it.
+              {t("services.items.addOnGrowth.description")}
             </p>
             <a
               href="#"
-              className="text-[color:var(--color-electric-blue)] hover:underline text-sm font-medium mt-auto"
+              className="text-[color:var(--color-charcoal)] hover:underline text-sm font-medium mt-auto"
             >
-              Learn More
+              {t("services.items.addOnGrowth.learnMore")}
             </a>
           </div>
         </div>

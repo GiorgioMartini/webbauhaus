@@ -1,0 +1,116 @@
+{
+  "hero": {
+    "title": "Blitzschnelle Websites, die Klicks in Kunden verwandeln.",
+    "subtitle": "Launch in 7 Tagen. Ein Studio, ein Experte, jeder Schritt: Design, Code, Deployment und Wartung — alles für Sie erledigt.",
+    "cta": {
+      "quote": "Kostenloses Angebot in 5 Minuten",
+      "portfolio": "Portfolio ansehen"
+    }
+  },
+  "whyWebBauHaus": {
+    "title": "Warum Web BauHaus?",
+    "features": {
+      "speed": {
+        "title": "Launch in 7 Tagen",
+        "description": "Von Start bis Launch in nur einer Woche. Keine Verzögerungen, kein Drama — nur Ergebnisse, schnell."
+      },
+      "endToEnd": {
+        "title": "Design → Code → Deployment → Wartung",
+        "description": "Wir übernehmen jeden Schritt, damit Sie sich auf Ihr Geschäft konzentrieren können. Ein Partner, vollständige Ruhe."
+      },
+      "roi": {
+        "title": "Websites für Conversion und Ranking",
+        "description": "Jede Website ist für Geschwindigkeit, SEO und Verkäufe optimiert — damit Sie mehr Leads und mehr Kunden bekommen."
+      }
+    },
+    "guarantee": "Zufriedenheit oder Geld zurück"
+  },
+  "services": {
+    "title": "Dienstleistungen",
+    "items": {
+      "customWebsites": {
+        "title": "Maßgeschneiderte Websites",
+        "description": "Marketing-Websites, Landing Pages und Unternehmensportale — alle auf Ihre Marke und Ziele zugeschnitten. Wir bauen schnelle, schöne und mobile Websites, die Ihr Unternehmen hervorheben und Besucher in Kunden verwandeln.",
+        "learnMore": "Mehr erfahren"
+      },
+      "webApplications": {
+        "title": "Webanwendungen",
+        "description": "Dashboards, Buchungssysteme und Kundenportale — wir erstellen maßgeschneiderte Webanwendungen, die automatisieren, einbinden und mit Ihrem Unternehmen skalieren. Sicher, robust und einfach zu bedienen für Sie und Ihre Kunden.",
+        "learnMore": "Mehr erfahren"
+      },
+      "ecommerce": {
+        "title": "E-Commerce",
+        "description": "Shop-Einrichtung, Zahlungen und Inventar-Anbindung — wir machen Online-Verkauf einfach und unkompliziert. Erhalten Sie einen konversionsoptimierten Shop, der einfach zu verwalten ist und bereit, Ihre Einnahmen zu steigern.",
+        "learnMore": "Mehr erfahren"
+      },
+      "addOnGrowth": {
+        "title": "Zusätzliche Wachstumspakete",
+        "description": "SEO, Copywriting, PPC-optimierte Landing Pages, Analytics und A/B-Tests — steigern Sie den Traffic und die Conversion Ihrer Website mit unseren Experten-Add-ons. Wählen Sie, was Sie brauchen, wenn Sie es brauchen.",
+        "learnMore": "Mehr erfahren"
+      }
+    }
+  },
+  "launchProcess": {
+    "title": "Unser 1-Wochen-Launch-Prozess",
+    "steps": {
+      "day1": "Tag 1",
+      "day2": "Tag 2",
+      "day3": "Tag 3",
+      "day4": "Tag 4",
+      "day5": "Tag 5",
+      "day6": "Tag 6",
+      "day7": "Tag 7",
+      "kickoff": "Kickoff-Call",
+      "wireframe": "Wireframe",
+      "design": "Design",
+      "build": "Entwicklung",
+      "test": "Testing",
+      "launch": "Launch",
+      "optimize": "Optimierung"
+    },
+    "contact": "Ein Ansprechpartner — Giorgio — für vollständige Ruhe."
+  },
+  "portfolio": {
+    "title": "Ausgewähltes Portfolio",
+    "viewLive": "Live ansehen",
+    "projects": {
+      "alpenTruck": {
+        "title": "Alpen Truck",
+        "description": "Alpen Truck benötigte eine moderne Website, um lokale Bestellungen zu steigern. Wir lieferten ein Mobile-First-Redesign, integrierten ein Online-Catering-Anfrageformular und verbesserten das SEO. Ergebnis: Online-Verkäufe in 3 Monaten verdoppelt."
+      },
+      "silvesterZagato": {
+        "title": "Silvester Zagato",
+        "description": "Wir halfen dem Künstler Silvestre Sagato, eine professionelle Online-Präsenz aufzubauen, indem wir einen maßgeschneiderten Shopify-Shop erstellten, in dem er seine Kunst einfach ausstellen und verkaufen kann, mit vollständiger Kontrolle über sein Portfolio und Zugang zu einem breiteren Publikum."
+      },
+      "doneJuan": {
+        "title": "Done Juan",
+        "description": "Wir bauten eine maßgeschneiderte Webanwendung für das Done Juan Team, das ein MVP für ihre Produktivitäts-App erstellen wollte, das ihre Idee validierte und jetzt vom Team genutzt wird."
+      }
+    }
+  },
+  "pricing": {
+    "title": "Preise und Pakete für mehr Umsatz",
+    "tiers": {
+      "starter": {
+        "name": "Starter",
+        "price": "Einmalzahlung",
+        "description": "Perfekt für kleine Unternehmen, die eine schöne und schnelle Broschüren-Website benötigen. Inklusive Design, Entwicklung und Launch."
+      },
+      "growth": {
+        "name": "Wachstum",
+        "price": "Monatliche Wartung",
+        "description": "Website plus grundlegendes SEO und vierteljährliche Updates. Ideal für wachsende Unternehmen, die kontinuierliche Unterstützung und Sichtbarkeit wünschen."
+      },
+      "dominance": {
+        "name": "Dominanz",
+        "price": "Premium-Wartung",
+        "description": "Website plus SEO, Landing Pages für Werbe-Funnels, monatliches CRO und Wartung. Für diejenigen, die ihren Markt dominieren wollen."
+      }
+    },
+    "highlight": "Erster Monat Wartung kostenlos",
+    "referral": {
+      "title": "Empfehlungsprämien:",
+      "description": "€200 Guthaben für jeden neuen Kunden, den Sie vermitteln."
+    }
+  }
+}

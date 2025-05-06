@@ -25,7 +25,7 @@ export default function Pricing() {
   return (
     <section className="py-16 bg-white" aria-label="Pricing & Packages">
       <div className="max-w-5xl mx-auto px-4">
-        <h2 className="font-calsans text-2xl md:text-3xl font-bold text-center mb-10 text-[color:var(--color-electric-blue)]">
+        <h2 className="font-calsans text-2xl md:text-3xl font-bold text-center mb-10 text-[color:var(--color-charcoal)]">
           Pricing & Revenue-Boosting Packages
         </h2>
         <div className="flex flex-col md:flex-row gap-8 justify-center">
@@ -38,7 +38,7 @@ export default function Pricing() {
                   : "border-transparent"
               }`}
             >
-              <h3 className="font-calsans font-semibold text-xl mb-2 text-[color:var(--color-electric-blue)]">
+              <h3 className="font-calsans font-semibold text-xl mb-2 text-[color:var(--color-charcoal)]">
                 {tier.name}
               </h3>
               <div className="font-calsans text-lg font-bold mb-2">
@@ -54,7 +54,7 @@ export default function Pricing() {
           ))}
         </div>
         <div className="text-center mt-8 text-sm text-gray-700">
-          <span className="font-semibold text-[color:var(--color-electric-blue)]">
+          <span className="font-semibold text-[color:var(--color-charcoal)]">
             Referral Rewards:
           </span>{" "}
           €200 credit for every new client you introduce.

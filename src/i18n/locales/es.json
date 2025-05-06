@@ -1,0 +1,116 @@
+{
+  "hero": {
+    "title": "Sitios Web Ultrarrápidos que Convierten Clics en Clientes.",
+    "subtitle": "Lanzamiento en 7 días. Un estudio, un experto, cada paso: diseño, código, despliegue y mantenimiento — todo hecho para ti.",
+    "cta": {
+      "quote": "Obtén un Presupuesto Gratuito en 5 Minutos",
+      "portfolio": "Ver Portafolio"
+    }
+  },
+  "whyWebBauHaus": {
+    "title": "¿Por qué Web BauHaus?",
+    "features": {
+      "speed": {
+        "title": "Lanzamiento en 7 Días",
+        "description": "Desde el inicio hasta el lanzamiento en solo una semana. Sin retrasos, sin dramas — solo resultados, rápido."
+      },
+      "endToEnd": {
+        "title": "Diseño → Código → Despliegue → Mantenimiento",
+        "description": "Manejamos cada paso, para que puedas enfocarte en tu negocio. Un solo socio, total tranquilidad."
+      },
+      "roi": {
+        "title": "Sitios Diseñados para Convertir y Posicionar",
+        "description": "Cada sitio está construido para velocidad, SEO y ventas — para que obtengas más leads y más clientes."
+      }
+    },
+    "guarantee": "Satisfacción o Devolución de Dinero"
+  },
+  "services": {
+    "title": "Servicios",
+    "items": {
+      "customWebsites": {
+        "title": "Sitios Web Personalizados",
+        "description": "Sitios de marketing, páginas de aterrizaje y portales corporativos — todos adaptados a tu marca y objetivos. Construimos sitios rápidos, hermosos y adaptados a móviles que hacen que tu negocio destaque y convierta visitantes en clientes.",
+        "learnMore": "Saber Más"
+      },
+      "webApplications": {
+        "title": "Aplicaciones Web",
+        "description": "Paneles de control, motores de reservas y portales de clientes — creamos aplicaciones web personalizadas que automatizan, involucran y escalan con tu negocio. Seguras, robustas y fáciles de usar para ti y tus clientes.",
+        "learnMore": "Saber Más"
+      },
+      "ecommerce": {
+        "title": "Comercio Electrónico",
+        "description": "Configuración de tiendas, pagos y enlaces de inventario — hacemos que vender en línea sea simple y sin complicaciones. Obtén una tienda optimizada para conversión que sea fácil de gestionar y lista para aumentar tus ingresos.",
+        "learnMore": "Saber Más"
+      },
+      "addOnGrowth": {
+        "title": "Paquetes de Crecimiento Adicionales",
+        "description": "SEO, redacción de textos, páginas de aterrizaje optimizadas para PPC, análisis y pruebas A/B — impulsa el tráfico y las conversiones de tu sitio con nuestros complementos expertos. Elige lo que necesitas, cuando lo necesitas.",
+        "learnMore": "Saber Más"
+      }
+    }
+  },
+  "launchProcess": {
+    "title": "Nuestro Proceso de Lanzamiento en 1 Semana",
+    "steps": {
+      "day1": "Día 1",
+      "day2": "Día 2",
+      "day3": "Día 3",
+      "day4": "Día 4",
+      "day5": "Día 5",
+      "day6": "Día 6",
+      "day7": "Día 7",
+      "kickoff": "Llamada Inicial",
+      "wireframe": "Wireframe",
+      "design": "Diseño",
+      "build": "Construcción",
+      "test": "Pruebas",
+      "launch": "Lanzamiento",
+      "optimize": "Optimización"
+    },
+    "contact": "Un solo punto de contacto — Giorgio — para total tranquilidad."
+  },
+  "portfolio": {
+    "title": "Portafolio Destacado",
+    "viewLive": "Ver en Vivo",
+    "projects": {
+      "alpenTruck": {
+        "title": "Alpen Truck",
+        "description": "Alpen Truck necesitaba un sitio moderno para impulsar los pedidos locales. Entregamos un rediseño mobile-first, integramos un formulario de consulta de catering en línea y mejoramos el SEO. Resultado: ventas en línea duplicadas en 3 meses."
+      },
+      "silvesterZagato": {
+        "title": "Silvester Zagato",
+        "description": "Ayudamos al artista Silvestre Sagato a establecer una presencia profesional en línea construyendo una tienda Shopify personalizada donde puede mostrar y vender fácilmente su arte, dándole control total sobre su portafolio y llegando a una audiencia más amplia."
+      },
+      "doneJuan": {
+        "title": "Done Juan",
+        "description": "Construimos una aplicación web personalizada para el equipo Done Juan que quería construir un MVP para su aplicación de productividad que validó su idea y ahora está siendo utilizada por el equipo."
+      }
+    }
+  },
+  "pricing": {
+    "title": "Precios y Paquetes para Impulsar Ingresos",
+    "tiers": {
+      "starter": {
+        "name": "Inicial",
+        "price": "Tarifa única",
+        "description": "Perfecto para pequeñas empresas que necesitan un sitio web de folleto hermoso y rápido. Incluye diseño, construcción y lanzamiento."
+      },
+      "growth": {
+        "name": "Crecimiento",
+        "price": "Mantenimiento mensual",
+        "description": "Sitio web más SEO básico y actualizaciones trimestrales. Ideal para empresas en crecimiento que desean soporte continuo y visibilidad."
+      },
+      "dominance": {
+        "name": "Dominancia",
+        "price": "Mantenimiento superior",
+        "description": "Sitio web más SEO, páginas de aterrizaje para embudos de anuncios, CRO mensual y mantenimiento. Para aquellos que quieren dominar su mercado."
+      }
+    },
+    "highlight": "Primer mes de mantenimiento gratis",
+    "referral": {
+      "title": "Recompensas por Referidos:",
+      "description": "€200 de crédito por cada nuevo cliente que introduzcas."
+    }
+  }
+}

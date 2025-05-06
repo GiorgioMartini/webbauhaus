@@ -25,7 +25,7 @@ export default function Testimonials() {
       aria-label="Testimonials & Social Proof"
     >
       <div className="max-w-4xl mx-auto px-4">
-        <h2 className="font-calsans text-2xl md:text-3xl font-bold text-center mb-10 text-[color:var(--color-electric-blue)]">
+        <h2 className="font-calsans text-2xl md:text-3xl font-bold text-center mb-10 text-[color:var(--color-charcoal)]">
           Testimonials
         </h2>
         <div className="flex flex-col md:flex-row gap-8 justify-center items-stretch">
@@ -46,7 +46,7 @@ export default function Testimonials() {
               ) : (
                 <p className="text-gray-700 text-sm mb-3">“{t.text}”</p>
               )}
-              <div className="font-semibold text-[color:var(--color-electric-blue)]">
+              <div className="font-semibold text-[color:var(--color-charcoal)]">
                 {t.name}
               </div>
             </div>
