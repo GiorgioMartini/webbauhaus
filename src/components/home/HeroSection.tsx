@@ -38,7 +38,7 @@ export default function HeroSection() {
           </a>
           <a
             href="#portfolio"
-            className="px-6 py-3 rounded-full font-semibold text-[color:var(--color-charcoal)] bg-white hover:bg-[color:var(--color-neon-green)] hover:text-[color:var(--color-charcoal)] transition-colors shadow focus:outline-none focus:ring-2 focus:ring-[color:var(--color-neon-green)]"
+            className="px-6 py-3 rounded-full font-semibold text-[color:var(--color-charcoal)] bg-white hover:bg-[color:var(--color-charcoal)] hover:text-[color:var(--color-neon-green)] transition-colors shadow focus:outline-none focus:ring-2 focus:ring-[color:var(--color-neon-green)]"
           >
             {t("hero.cta.portfolio")}
           </a>
