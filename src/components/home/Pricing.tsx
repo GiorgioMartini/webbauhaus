@@ -46,6 +46,9 @@ export default function Pricing() {
                 {tier.price}
               </div>
               <p className="text-sm text-gray-700 mb-4">{tier.desc}</p>
+              <p className="text-sm font-semibold text-[color:var(--color-charcoal)] mb-4">
+                {tier.value}
+              </p>
               {tier.highlight && (
                 <span className="inline-block bg-[color:var(--color-neon-green)] text-[color:var(--color-charcoal)] px-3 py-1 rounded-full text-xs font-semibold mb-2">
                   Free first month of maintenance

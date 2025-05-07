@@ -94,23 +94,56 @@
       "launch": {
         "name": "Launch",
         "price": "Einmalzahlung",
-        "description": "Perfekt für kleine Unternehmen, die eine schöne und schnelle Broschüren-Website benötigen. Inklusive Design, Entwicklung und Launch."
+        "description": "Perfekt für kleine Unternehmen, die eine schöne und schnelle Broschüren-Website benötigen. Inklusive Design, Entwicklung und Launch.",
+        "value": "Ab €1.200 - Angebot anfordern."
       },
       "scale": {
         "name": "Skalierung",
         "price": "Monatliche Wartung",
-        "description": "Website plus grundlegendes SEO und vierteljährliche Updates. Ideal für wachsende Unternehmen, die kontinuierliche Unterstützung und Sichtbarkeit wünschen."
+        "description": "Website plus grundlegendes SEO und vierteljährliche Updates. Ideal für wachsende Unternehmen, die kontinuierliche Unterstützung und Sichtbarkeit wünschen.",
+        "value": "Ab €2.500 - Kostenlose Beratung buchen."
       },
       "marketLeader": {
         "name": "Marktführer",
         "price": "Premium-Wartung",
-        "description": "Website plus SEO, Landing Pages für Werbe-Funnels, monatliches CRO und Wartung. Für diejenigen, die ihren Markt dominieren wollen."
+        "description": "Website plus SEO, Landing Pages für Werbe-Funnels, monatliches CRO und Wartung. Für diejenigen, die ihren Markt dominieren wollen.",
+        "value": "Bei Google gefunden werden. Aktuell bleiben. Weiter wachsen."
       }
     },
     "highlight": "Erster Monat Wartung kostenlos",
     "referral": {
       "title": "Empfehlungsprämien:",
       "description": "€200 Guthaben für jeden neuen Kunden, den Sie vermitteln."
+    }
+  },
+  "maintenance": {
+    "title": "Wartung & Pflegepläne",
+    "services": {
+      "security": {
+        "title": "Sicherheits-Updates",
+        "description": "Regelmäßige Sicherheitsupdates, um Ihre Website sicher und geschützt zu halten"
+      },
+      "backups": {
+        "title": "Backups",
+        "description": "Automatisierte tägliche Backups, um Ihre Daten immer sicher zu halten"
+      },
+      "monitoring": {
+        "title": "Uptime-Überwachung",
+        "description": "24/7-Überwachung, um sicherzustellen, dass Ihre Website online bleibt"
+      },
+      "content": {
+        "title": "Content-Updates",
+        "description": "Schnelle und effiziente Content-Aktualisierungen, wenn Sie sie benötigen"
+      },
+      "support": {
+        "title": "Prioritäts-Support",
+        "description": "Schnelle Reaktionszeiten und dedizierter Support für Ihre Bedürfnisse"
+      }
+    },
+    "pricing": {
+      "from": "Ab",
+      "amount": "€79/Monat",
+      "comparison": "— günstiger als ein täglicher Kaffee!"
     }
   }
 }

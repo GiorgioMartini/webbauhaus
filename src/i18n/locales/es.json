@@ -94,23 +94,56 @@
       "launch": {
         "name": "Lanzamiento",
         "price": "Tarifa única",
-        "description": "Perfecto para pequeñas empresas que necesitan un sitio web de folleto hermoso y rápido. Incluye diseño, construcción y lanzamiento."
+        "description": "Perfecto para pequeñas empresas que necesitan un sitio web de folleto hermoso y rápido. Incluye diseño, construcción y lanzamiento.",
+        "value": "Desde €1.200 - Obtén un presupuesto."
       },
       "scale": {
         "name": "Escala",
         "price": "Mantenimiento mensual",
-        "description": "Sitio web más SEO básico y actualizaciones trimestrales. Ideal para empresas en crecimiento que desean soporte continuo y visibilidad."
+        "description": "Sitio web más SEO básico y actualizaciones trimestrales. Ideal para empresas en crecimiento que desean soporte continuo y visibilidad.",
+        "value": "Desde €2.500 - Reserva una consulta gratuita."
       },
       "marketLeader": {
         "name": "Líder de Mercado",
         "price": "Mantenimiento superior",
-        "description": "Sitio web más SEO, páginas de aterrizaje para embudos de anuncios, CRO mensual y mantenimiento. Para aquellos que quieren dominar su mercado."
+        "description": "Sitio web más SEO, páginas de aterrizaje para embudos de anuncios, CRO mensual y mantenimiento. Para aquellos que quieren dominar su mercado.",
+        "value": "Encuéntrate en Google. Mantente actualizado. Sigue creciendo."
       }
     },
     "highlight": "Primer mes de mantenimiento gratis",
     "referral": {
       "title": "Recompensas por Referidos:",
       "description": "€200 de crédito por cada nuevo cliente que introduzcas."
+    }
+  },
+  "maintenance": {
+    "title": "Planes de Mantenimiento y Cuidado",
+    "services": {
+      "security": {
+        "title": "Parches de Seguridad",
+        "description": "Actualizaciones regulares de seguridad para mantener tu sitio seguro y protegido"
+      },
+      "backups": {
+        "title": "Copias de Seguridad",
+        "description": "Copias de seguridad diarias automatizadas para garantizar que tus datos estén siempre seguros"
+      },
+      "monitoring": {
+        "title": "Monitoreo de Tiempo Activo",
+        "description": "Monitoreo 24/7 para asegurar que tu sitio permanezca en línea"
+      },
+      "content": {
+        "title": "Ediciones de Contenido",
+        "description": "Actualizaciones rápidas y eficientes de contenido cuando las necesites"
+      },
+      "support": {
+        "title": "Soporte Prioritario",
+        "description": "Tiempos de respuesta rápidos y soporte dedicado para tus necesidades"
+      }
+    },
+    "pricing": {
+      "from": "Desde",
+      "amount": "€79/mes",
+      "comparison": "— ¡más barato que un café diario!"
     }
   }
 }

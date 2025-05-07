@@ -94,23 +94,56 @@
       "launch": {
         "name": "Launch",
         "price": "One-off fee",
-        "description": "Perfect for small businesses needing a beautiful, fast brochure site. Includes design, build, and launch."
+        "description": "Perfect for small businesses needing a beautiful, fast brochure site. Includes design, build, and launch.",
+        "value": "From €1.200 - Get a quote."
       },
       "scale": {
         "name": "Scale",
         "price": "Monthly retainer",
-        "description": "Site plus basic SEO and quarterly updates. Ideal for growing businesses who want ongoing support and visibility."
+        "description": "Site plus basic SEO and quarterly updates. Ideal for growing businesses who want ongoing support and visibility.",
+        "value": "From €2.500 - Book a free consultation."
       },
       "marketLeader": {
         "name": "Market Leader",
         "price": "Higher retainer",
-        "description": "Site plus SEO, ad-funnel landing pages, monthly CRO & maintenance. For those who want to dominate their market."
+        "description": "Site plus SEO, ad-funnel landing pages, monthly CRO & maintenance. For those who want to dominate their market.",
+        "value": "Get found on Google. Stay updated. Keep growing."
       }
     },
     "highlight": "Free first month of maintenance",
     "referral": {
       "title": "Referral Rewards:",
       "description": "€200 credit for every new client you introduce."
+    }
+  },
+  "maintenance": {
+    "title": "Maintenance & Care Plans",
+    "services": {
+      "security": {
+        "title": "Security Patches",
+        "description": "Regular security updates to keep your site safe and protected"
+      },
+      "backups": {
+        "title": "Backups",
+        "description": "Automated daily backups to ensure your data is always secure"
+      },
+      "monitoring": {
+        "title": "Uptime Monitoring",
+        "description": "24/7 monitoring to ensure your site stays online"
+      },
+      "content": {
+        "title": "Content Edits",
+        "description": "Quick and efficient content updates when you need them"
+      },
+      "support": {
+        "title": "Priority Support",
+        "description": "Fast response times and dedicated support for your needs"
+      }
+    },
+    "pricing": {
+      "from": "From",
+      "amount": "€79/mo",
+      "comparison": "— cheaper than a daily coffee!"
     }
   }
 }
