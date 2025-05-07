@@ -3,7 +3,7 @@
     "title": "Blitzschnelle Websites, die Klicks in Kunden verwandeln.",
     "subtitle": "Launch in 7 Tagen. Ein Studio, ein Experte, jeder Schritt: Design, Code, Deployment und Wartung — alles für Sie erledigt.",
     "cta": {
-      "quote": "Kostenloses Angebot in 5 Minuten",
+      "quote": "Kostenloses Angebot",
       "portfolio": "Portfolio ansehen"
     }
   },
@@ -91,18 +91,18 @@
   "pricing": {
     "title": "Preise und Pakete für mehr Umsatz",
     "tiers": {
-      "starter": {
-        "name": "Starter",
+      "launch": {
+        "name": "Launch",
         "price": "Einmalzahlung",
         "description": "Perfekt für kleine Unternehmen, die eine schöne und schnelle Broschüren-Website benötigen. Inklusive Design, Entwicklung und Launch."
       },
-      "growth": {
-        "name": "Wachstum",
+      "scale": {
+        "name": "Skalierung",
         "price": "Monatliche Wartung",
         "description": "Website plus grundlegendes SEO und vierteljährliche Updates. Ideal für wachsende Unternehmen, die kontinuierliche Unterstützung und Sichtbarkeit wünschen."
       },
-      "dominance": {
-        "name": "Dominanz",
+      "marketLeader": {
+        "name": "Marktführer",
         "price": "Premium-Wartung",
         "description": "Website plus SEO, Landing Pages für Werbe-Funnels, monatliches CRO und Wartung. Für diejenigen, die ihren Markt dominieren wollen."
       }

@@ -1,5 +1,3 @@
-import React from "react";
-
 // Pricing section: tiered cards for packages
 export default function Pricing() {
   const tiers = [
@@ -8,18 +6,21 @@ export default function Pricing() {
       price: "One-off fee",
       desc: "Perfect for small businesses needing a beautiful, fast brochure site. Includes design, build, and launch.",
       highlight: false,
+      value: "From €1.200 - Get a quote.",
     },
     {
       name: "Growth",
       price: "Monthly retainer",
       desc: "Site plus basic SEO and quarterly updates. Ideal for growing businesses who want ongoing support and visibility.",
       highlight: true,
+      value: "From €2.500 - Book a free consultation.",
     },
     {
       name: "Dominance",
       price: "Higher retainer",
       desc: "Site plus SEO, ad-funnel landing pages, monthly CRO & maintenance. For those who want to dominate their market.",
       highlight: false,
+      value: "Get found on Google. Stay updated. Keep growing.",
     },
   ];
   return (

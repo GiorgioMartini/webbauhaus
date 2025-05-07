@@ -3,7 +3,7 @@
     "title": "Sitios Web Ultrarrápidos que Convierten Clics en Clientes.",
     "subtitle": "Lanzamiento en 7 días. Un estudio, un experto, cada paso: diseño, código, despliegue y mantenimiento — todo hecho para ti.",
     "cta": {
-      "quote": "Obtén un Presupuesto Gratuito en 5 Minutos",
+      "quote": "Obtén un Presupuesto Gratuito",
       "portfolio": "Ver Portafolio"
     }
   },
@@ -91,18 +91,18 @@
   "pricing": {
     "title": "Precios y Paquetes para Impulsar Ingresos",
     "tiers": {
-      "starter": {
-        "name": "Inicial",
+      "launch": {
+        "name": "Lanzamiento",
         "price": "Tarifa única",
         "description": "Perfecto para pequeñas empresas que necesitan un sitio web de folleto hermoso y rápido. Incluye diseño, construcción y lanzamiento."
       },
-      "growth": {
-        "name": "Crecimiento",
+      "scale": {
+        "name": "Escala",
         "price": "Mantenimiento mensual",
         "description": "Sitio web más SEO básico y actualizaciones trimestrales. Ideal para empresas en crecimiento que desean soporte continuo y visibilidad."
       },
-      "dominance": {
-        "name": "Dominancia",
+      "marketLeader": {
+        "name": "Líder de Mercado",
         "price": "Mantenimiento superior",
         "description": "Sitio web más SEO, páginas de aterrizaje para embudos de anuncios, CRO mensual y mantenimiento. Para aquellos que quieren dominar su mercado."
       }

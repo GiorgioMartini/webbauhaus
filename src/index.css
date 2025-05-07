@@ -11,7 +11,8 @@
 }
 
 :root {
-  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  /* font-family: system-ui, Avenir, Helvetica, Arial, sans-serif; */
+  font-family: "CalSans";
   line-height: 1.5;
   font-weight: 400;
   font-synthesis: none;

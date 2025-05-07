@@ -3,7 +3,7 @@
     "title": "Lightning-Fast Websites That Turn Clicks into Clients.",
     "subtitle": "Launch in 7 days. One studio, one expert, every step: design, code, deploy, and maintain — all done for you.",
     "cta": {
-      "quote": "Get a Free 5-Minute Quote",
+      "quote": "Get a Free Quote",
       "portfolio": "View Portfolio"
     }
   },
@@ -91,18 +91,18 @@
   "pricing": {
     "title": "Pricing & Revenue-Boosting Packages",
     "tiers": {
-      "starter": {
-        "name": "Starter",
+      "launch": {
+        "name": "Launch",
         "price": "One-off fee",
         "description": "Perfect for small businesses needing a beautiful, fast brochure site. Includes design, build, and launch."
       },
-      "growth": {
-        "name": "Growth",
+      "scale": {
+        "name": "Scale",
         "price": "Monthly retainer",
         "description": "Site plus basic SEO and quarterly updates. Ideal for growing businesses who want ongoing support and visibility."
       },
-      "dominance": {
-        "name": "Dominance",
+      "marketLeader": {
+        "name": "Market Leader",
         "price": "Higher retainer",
         "description": "Site plus SEO, ad-funnel landing pages, monthly CRO & maintenance. For those who want to dominate their market."
       }

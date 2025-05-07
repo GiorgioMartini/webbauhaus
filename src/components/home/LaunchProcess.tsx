@@ -46,7 +46,7 @@ export default function LaunchProcess() {
           <div className="flex flex-row flex-wrap justify-center gap-4 md:gap-8 w-full">
             {steps.map((step, idx) => (
               <div key={step.day} className="flex flex-col items-center">
-                <div className="w-8 h-8 rounded-full bg-[color:var(--color-neon-green)] text-white flex items-center justify-center font-bold mb-2">
+                <div className="w-8 h-8 rounded-full bg-[color:var(--color-neon-green)] text-[color:var(--color-charcoal)] flex items-center justify-center font-bold mb-2">
                   {idx + 1}
                 </div>
                 <span className="text-xs font-semibold text-[color:var(--color-charcoal)]">

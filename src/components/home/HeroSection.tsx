@@ -32,7 +32,7 @@ export default function HeroSection() {
         <div className="flex flex-col sm:flex-row gap-4 justify-center mt-4">
           <a
             href="#contact"
-            className="px-6 py-3 rounded-full font-semibold text-[color:var(--color-charcoal)] bg-[color:var(--color-neon-green)] hover:bg-white hover:text-[color:var(--color-charcoal)] transition-colors shadow-lg focus:outline-none focus:ring-2 focus:ring-[color:var(--color-neon-green)]"
+            className="px-6 py-3 rounded-full font-semibold text-[color:var(--color-charcoal)] bg-[color:var(--color-neon-green)] hover:bg-[color:var(--color-charcoal)] hover:text-[color:var(--color-neon-green)] transition-colors shadow-lg focus:outline-none focus:ring-2 focus:ring-[color:var(--color-neon-green)]"
           >
             {t("hero.cta.quote")}
           </a>
